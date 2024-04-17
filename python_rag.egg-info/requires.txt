@@ -1,0 +1,12 @@
+wheel
+pandas<3.0.0,>=1.0.0
+transformers<5.0.0,>=4.0.0
+ragas<1.0.0,>=0.0.22
+pypdf<5.0.0,>=4.0.0
+python-dotenv<2.0.0,>=1.0.0
+langchain==0.1.16
+chromadb==0.3.29
+
+[test]
+pytest
+pytest-timeout
